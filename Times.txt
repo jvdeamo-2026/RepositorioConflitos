@@ -3,3 +3,16 @@
 +Paysandu
 +Real Madrid
 +Curinthia
+--
+Branch: RecursosFutebol
+- Nova adição de times
+Nome: João Victor Martins Deamo
+Data: 14/05/2026
+Versão: v1.0.1
+Motivo: Adição de novos recursos e linhas de texto do código
+--
++Amazonas
++São Paulo
++Paris Saint-Germain
++Liverpool
++Al-Nassr

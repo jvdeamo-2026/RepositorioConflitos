@@ -3,3 +3,16 @@
 +Arrascaeta
 +Neymar
 +Pelé
+--
+Branch: RecursosFutebol
+- Nova adi??o de jogadores
+Nome: Jo?o Victor Martins Deamo
+Data: 14/05/2026
+Vers?o: v1.0.1
+Motivo: Adi??o de novos recursos e linhas de texto do c?digo
+--
++Shevchenko
++Vini Jr.
++Estev?o
++Lamine Yamal
++Endrick
